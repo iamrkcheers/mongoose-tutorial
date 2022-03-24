@@ -1,2 +1,2 @@
 # mongoose-tutorial
-A Basic Mongoose Tutorial in Node-Express
+A Basic Mongoose Tutorial in Node-Express.
